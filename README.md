@@ -19,7 +19,6 @@ My Windows Terminal related settings and stuff.
 
 [Pure tomorrow](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow.json)
 
----
 
 ### Oh my posh themes <a name="tompt"></a>
 
@@ -31,4 +30,3 @@ My Windows Terminal related settings and stuff.
 
 [Remix of pure](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/pure.omp.json)
 
----
