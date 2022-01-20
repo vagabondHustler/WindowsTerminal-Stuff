@@ -1,0 +1,27 @@
+{
+  "schemes": [
+    {
+      "background": "#1F1F1F",
+      "black": "#1F1F1F",
+      "blue": "#5E768B",
+      "brightBlack": "#454545",
+      "brightBlue": "#81A2BE",
+      "brightCyan": "#319EC0",
+      "brightGreen": "#9DBD68",
+      "brightPurple": "#B294A7",
+      "brightRed": "#8A4B55",
+      "brightWhite": "#CCCCCC",
+      "brightYellow": "#CEA456",
+      "cursorColor": "#6B6B6B",
+      "cyan": "#287F9A",
+      "foreground": "#A8A8A8",
+      "green": "#728A4B",
+      "name": "Pure Tomorrow",
+      "purple": "#7E6977",
+      "red": "#B05F6C",
+      "selectionBackground": "#F4F4F4",
+      "white": "#999999",
+      "yellow": "#9B7B40"
+    }
+  ]
+}
