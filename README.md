@@ -13,7 +13,8 @@ My Windows Terminal related settings and stuff.
 
 ## Terminal color schemes <a name="tcs"></a>
 
-### Pure tomorrow
+#### Pure tomorrow
+---
 
 ![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow-prtsc.png)
 
@@ -23,7 +24,8 @@ My Windows Terminal related settings and stuff.
 
 ### Oh my posh themes <a name="tompt"></a>
 
-### Pure tomorrow
+#### Pure tomorrow
+---
 
 ![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/oh-my-posh-themes/pure-tomorrow-prtsc.png)
 
