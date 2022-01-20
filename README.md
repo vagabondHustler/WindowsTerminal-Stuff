@@ -17,7 +17,7 @@ My Windows Terminal related settings and stuff.
 
 ![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow-prtsc.png)
 
-- [Pure tomorrow](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow.json)
+[Pure tomorrow](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow.json)
 
 ---
 
@@ -25,9 +25,9 @@ My Windows Terminal related settings and stuff.
 
 #### Pure tomorrow
 
-![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow-prtsc.png)
+![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/coh-my-posh-themes/pure-tomorrow-prtsc.png)
 
-- [Pure tomorrow](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow.json)
+[Pure tomorrow](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/oh-my-posh-themes/pure-tomorrow.omp.json)
 
 [Remix of pure](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/pure.omp.json)
 
