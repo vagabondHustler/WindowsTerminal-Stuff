@@ -19,7 +19,6 @@ My Windows Terminal related settings and stuff.
 
 Pure tomorrow [.json](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/color-schemes/pure-tomorrow.json)
 
-
 ## Oh my posh themes <a name="ompt"></a>
 
 #### Pure tomorrow
@@ -30,3 +29,10 @@ Pure tomorrow [.json](https://github.com/vagabondHustler/WindowsTerminal-Stuff/b
 
 Remix of [pure](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/pure.omp.json)
 
+#### Hot pink
+
+![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/oh-my-posh-themes/hot-pink-prtsc.png)
+
+Hot pink [.json](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/oh-my-posh-themes/hot-pink.omp.json)
+
+Remix of [M365Princes](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json)
