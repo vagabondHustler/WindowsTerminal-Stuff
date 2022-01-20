@@ -25,7 +25,7 @@ My Windows Terminal related settings and stuff.
 
 #### Pure tomorrow
 
-![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/coh-my-posh-themes/pure-tomorrow-prtsc.png)
+![prtsc](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/oh-my-posh-themes/pure-tomorrow-prtsc.png)
 
 [Pure tomorrow](https://github.com/vagabondHustler/WindowsTerminal-Stuff/blob/main/oh-my-posh-themes/pure-tomorrow.omp.json)
 
